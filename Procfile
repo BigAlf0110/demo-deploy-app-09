@@ -1,2 +1,2 @@
-web: node ./landing_page.html
-// ./app.js
+web: node ./app.js
+// ./landing_page.html
